@@ -1,0 +1,1 @@
+record_score.append(font_op.render(score_record[i]["Score"], True, (255, 255, 255), (0, 0, 0)))
